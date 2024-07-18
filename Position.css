@@ -1,0 +1,27 @@
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+#a1{
+    background-color:blue;
+    top: 100px;
+}
+#b1{
+    background-color: red;
+    position: sticky;
+    top:0px;
+    /* left: 45px; */
+}
+#c1{
+    background-color: green;
+    position: relative;
+    /* z-index: -1; */
+}
+#d1{
+    background-color: aqua;
+    position: fixed;
+    
+    top:0px;
+    z-index: -1;
+}

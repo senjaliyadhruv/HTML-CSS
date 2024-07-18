@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    border: border-box;
+}
+#navbar{
+    
+    height: 60px;
+    width: 100rem;
+    background-color: #0f1111;
+    color: white;
+}
+#nav-logo{
+    height: 50px;
+    width: 100px;
+}
+#logo{
+    height: 50px;
+    width: 100%;
+    background-image: url("Amazon.jpg");
+    background-size: cover;
+}

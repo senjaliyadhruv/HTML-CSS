@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Job Application</h1>
+    <label for="name1" style="color: rgb(81, 0, 255, 0.731);">Name:</label>
+    <input type="text" name="name1" id="name1"><br><br>
+
+    <label for="name1">Email:</label>
+    <input type="text" name="email1" id="email1"><br><br>
+
+    <label for="name1">Phone:</label>
+    <input type="text" name="phone1" id="phone1"><br><br>
+    
+    <label for="resume1">Resume:</label>
+    <input type="file" name="resume1" id="resume1"><br><br>
+
+    <label for="year">Experience year</label>
+    <input type="number" name="year" id="year" min="0" max="50" placeholder="0"><br><br>
+
+    <fieldset>
+        <legend>Skills:</legend>
+        <label for="html">HTML</label>
+        <input type="checkbox" name="html" id="html"><br><br>
+        <label for="css">CSS</label>
+        <input type="checkbox" name="css" id="css"><br><br>
+        <label for="js">JavaScript</label>
+        <input type="checkbox" name="js" id="js">
+    </fieldset><br><br>
+
+    <label for="highest">Highest Education:</label>
+    <select name="highest" id="highest">
+        <option value="default">--Select Your Education--</option>
+        <option value="pg">Post Graduate</option>
+        <option value="ug">Under Graduate</option>
+        <option value="hsc"> H.S.C. Pass</option>
+        <option value="ssc"> S.S.C. Pass</option>
+    </select><br><br>
+
+    <label for="avail">Availability:</label><br><br>
+    <label for="FT">Full Time</label>
+    <input type="radio" name="radio1" id="FT"><br>
+    <label for="PT">Part-Time</label>
+    <input type="radio" name="radio1" id="PT"><br><br>
+
+    <label for="ac">Additional Comments:</label><br>
+    <textarea name="ac" id="ac" cols="70" rows="10" placeholder="Enter comment here"></textarea>
+    <button>Submit Application </button>
+
+  </body>
+</html>

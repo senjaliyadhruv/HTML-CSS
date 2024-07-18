@@ -1,0 +1,11 @@
+div{
+    background-color: pink;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+a{
+    text-decoration: none;
+}

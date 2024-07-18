@@ -1,0 +1,8 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-image: url("IMAGE.jpg");
+    background-size: cover;
+    position: sticky;
+    top: 30px;
+}

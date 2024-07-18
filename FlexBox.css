@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#parent{
+    height: 300px;
+    width: 600px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    left: 0px;
+}
+#a1{
+    background-color: red;
+}
+#b1{
+    background-color: blue;
+}
+#c1
+{
+    background-color: green;
+}

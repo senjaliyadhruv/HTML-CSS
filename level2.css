@@ -1,0 +1,46 @@
+/* p{
+    height: 17px;
+    width: 200px;
+    background-color: red;
+    border:2px dashed black;
+border-radius: 10px;
+}
+#a{
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+    border: 2px solid brown;
+    margin-top: 50px;
+}
+#b{
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+    border: 2px solid brown;
+    margin-top: 50px;
+
+}
+#c{
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+    border: 2px solid brown;
+    margin-top: 50px;
+
+} */
+div{
+    margin: 25px;
+    width: 100px;
+    height: 100px;
+    padding: 25px;
+    display: inline-block;
+}
+#a{
+background-color:  blue;
+}
+#b{
+    background-color: red;
+}
+#c{
+    background-color: green;
+}

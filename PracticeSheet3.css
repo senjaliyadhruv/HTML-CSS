@@ -1,0 +1,36 @@
+/* Q.1:: Create a div with height & width of 100px.
+set its background color to green & the border radius to 50%. */
+#a {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  border-radius: 50%;
+  color: black;
+}
+
+/* Q.2:: Create the following navbar: 
+this is amazon menu bar */
+* {
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+#navi {
+  height: 60px;
+  background-color: #0f1111;
+}
+
+button {
+  background-color: #f08804;
+  color: black;
+}
+
+#logo {
+  color: #f08804;
+  font-size: 25px;
+}
+a {
+  margin-right: 200px;
+  text-decoration: none;
+}

@@ -1,0 +1,14 @@
+#a{
+    text-align:right;
+}
+#b{
+    text-align: left;
+}
+#c{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration: underline wavy red ;
+    font-weight: 900;
+}
